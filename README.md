@@ -5,8 +5,6 @@ I'm Gunveen Batra, a dedicated enthusiast in the realms of data science and mach
 
 🌱 I'm perpetually on a learning journey, with my current focus revolving around delving deeper into the Django web development framework.
 
-👯 I'm enthusiastic about the prospect of collaborating on projects related to deep learning or similar domains. ChatGPT, could you perhaps inspire me with some project ideas?
-
 🤔 My professional quest is to secure a full-time role in the capacities of a Data Scientist, Data Analyst, Machine Learning Engineer, or Deep Learning Engineer.
 
 💬 Feel free to engage me in discussions covering topics within the realm of data science, machine learning, or any technology-related subject.
